@@ -29,4 +29,4 @@ from src.masks import split_string
 
 
 if __name__ == '__main__':
-    print(split_string('sevennn'))
+    print(split_string('seven'))
